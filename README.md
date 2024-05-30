@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EffaOjah
-- 👀 I’m interested in learning react.js
-- 🌱 I’m currently learning Node.js
+- I’m open to work as a backend developer | node.js
 - 📫 How to reach me : email me; (effaojah@gmail.com)
+- call me : +234 8166168949
 
 -Ready to collaborate
 <!---
