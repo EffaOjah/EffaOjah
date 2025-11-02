@@ -1,10 +1,68 @@
-- 👋 Hi, I’m @EffaOjah
-- I’m open to work as a backend developer | node.js
-- 📫 How to reach me : email me; (effaojah@gmail.com)
-- call me : +234 8166168949
+<h1 align="center">Hi 👋, I'm Effa Ojah</h1>
+<h3 align="center">Backend Software Engineer | Node.js | Express | MySQL</h3>
 
--Ready to collaborate
-<!---
-EffaOjah/EffaOjah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Passionate Backend Engineer focused on building & maintaining **scalable systems, secure APIs, and business-driven applications**.  
+Currently building real-world solutions around **healthcare systems, invoicing automation, attendance systems, and retail dashboards**.
+
+---
+
+### 🧠 About Me
+- 🎓 Currently Pursuing a Computer Science Degree  
+- 💻 Backend Engineering with **Node.js + Express**
+- 🖥 Desktop App Development using **Electron.js + SQLite**
+- 🛢 SQL experience with **MySQL & SQLite**
+- 🔐 Auth: JWT, Sessions, Passport.js (Google OAuth)
+- 🌱 Improving skills in **Cloud, TypeScript & Scalable Architecture**
+- 🎯 Goal: Become a world-class Backend Engineer
+
+---
+
+### 🛠 Tech Stack  
+
+**Languages & Backend**
+- JavaScript (ES6+), Node.js, Express.js  
+- TypeScript (learning & applying)
+
+**Databases**
+- MySQL, SQLite, SQL Schema Design & Optimization
+
+**Desktop**
+- Electron.js (Native-like business apps)
+
+**Other**
+- Git & GitHub
+- REST APIs  
+- MVC Architecture  
+- Postman  
+- Cron Jobs & Automation  
+- JWT, Passport.js  
+- Fetch API / Basic React Skills
+
+---
+
+### 📌 Highlight Projects
+
+| Project | Stack | Description |
+|--------|------|-------------|
+| Healthcare Management System | Node.js, Express, MySQL, JWT | Multi-module app for hospital workflows |
+| Invoicing & Reminder System | Node.js, Cron, Nodemailer, WhatsApp API | Automatic invoice notification system |
+| Retail Sales Desktop App | Electron.js, SQLite | POS-style system with products, cart & receipts |
+| University Attendance System | Node.js, QR Codes, SQL | QR-based student attendance platform |
+| Foster Care Platform | Node.js, Express, MySQL | System for managing foster care processes |
+
+> 🔥 *Links coming soon — building & polishing live repos!*
+
+---
+
+### 💬 Contact Me
+
+📩 **Email:** effaojah@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/effa-ojah-6a452231a  
+🧰 **Portfolio:** *(coming soon)*
+
+---
+
+> *“Always learning, always building.”*
+
+🔥 *Let’s build something meaningful together.*
+
