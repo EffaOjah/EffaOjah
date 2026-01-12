@@ -2,7 +2,7 @@
 <h3 align="center">Backend Software Engineer | Node.js | Express | MySQL</h3>
 
 🚀 Passionate Backend Engineer focused on building & maintaining **scalable systems, secure APIs, and business-driven applications**.  
-Currently building real-world solutions around **healthcare systems, invoicing automation, attendance systems, and retail dashboards**.
+Currently building real-world solutions.
 
 ---
 
@@ -13,7 +13,6 @@ Currently building real-world solutions around **healthcare systems, invoicing a
 - 🛢 SQL experience with **MySQL & SQLite**
 - 🔐 Auth: JWT, Sessions, Passport.js (Google OAuth)
 - 🌱 Improving skills in **Cloud, TypeScript & Scalable Architecture**
-- 🎯 Goal: Become a world-class Backend Engineer
 
 ---
 
@@ -50,15 +49,11 @@ Currently building real-world solutions around **healthcare systems, invoicing a
 | University Attendance System | Node.js, QR Codes, SQL | QR-based student attendance platform |
 | Foster Care Platform | Node.js, Express, MySQL | System for managing foster care processes |
 
-> 🔥 *Links coming soon — building & polishing live repos!*
-
----
-
 ### 💬 Contact Me
 
 📩 **Email:** effaojah@gmail.com  
 🔗 **LinkedIn:** linkedin.com/in/effa-ojah-6a452231a  
-🧰 **Portfolio:** *(coming soon)*
+🧰 **Portfolio:** https://effaojah.github.io/my-portfolio/
 
 ---
 
