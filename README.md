@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Effa Ojah</h1>
-<h3 align="center">Backend Software Engineer | Node.js | Express | MySQL</h3>
+<h3 align="center">Backend Software Engineer | Node.js | Express | SQL</h3>
 
 🚀 Passionate Backend Engineer focused on building & maintaining **scalable systems, secure APIs, and business-driven applications**.  
 Currently building real-world solutions.
@@ -10,9 +10,9 @@ Currently building real-world solutions.
 - 🎓 Currently Pursuing a Computer Science Degree  
 - 💻 Backend Engineering with **Node.js + Express**
 - 🖥 Desktop App Development using **Electron.js + SQLite**
-- 🛢 SQL experience with **MySQL & SQLite**
+- 🛢 SQL experience with **MySQL, PostgreSQL & SQLite**
 - 🔐 Auth: JWT, Sessions, Passport.js (Google OAuth)
-- 🌱 Improving skills in **Cloud, TypeScript & Scalable Architecture**
+- 🌱 Improving skills in **DevOps & Cloud**
 
 ---
 
@@ -20,10 +20,10 @@ Currently building real-world solutions.
 
 **Languages & Backend**
 - JavaScript (ES6+), Node.js, Express.js  
-- TypeScript (learning & applying)
+- TypeScript
 
 **Databases**
-- MySQL, SQLite, SQL Schema Design & Optimization
+- MySQL, PostgreSQL, SQLite, SQL Schema Design & Optimization
 
 **Desktop**
 - Electron.js (Native-like business apps)
@@ -36,6 +36,7 @@ Currently building real-world solutions.
 - Cron Jobs & Automation  
 - JWT, Passport.js  
 - Fetch API / Basic React Skills
+- Redis
 
 ---
 
